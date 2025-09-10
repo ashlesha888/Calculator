@@ -17,6 +17,10 @@ A simple **web-based calculator** built with **HTML, CSS, and JavaScript** that 
 
 You can view the live project here: [Calculator Demo](https://ashlesha888.github.io/Calculator/)
 
+## Screenshot
+![Calculator Screenshot](images/calculator.png)
+
+
 ## How It Works
 
 - The variable `calculation` stores the current input.
